@@ -1,0 +1,12 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"dotmailer": {
+		"auth": {
+			"user": "",
+			"pass": ""
+		},
+		"baseUrl": "https://r3-api.dotmailer.com/v2/"
+	}
+}
